@@ -1,4 +1,4 @@
-# Happy Customers — Apziva Project 1
+# Happy Customers: Apziva Project
 
 ## Project Overview
 
