@@ -1,0 +1,7 @@
+Feature,Question,Importance mean,Importance std
+X1,Order delivered on time,0.08269102784273066,0.03359606404120797
+X6,App makes ordering easy,0.07735583588215171,0.029478422233699758
+X3,Ordered everything wanted,0.019053221288515432,0.024394804937991656
+X2,Contents were as expected,0.0,0.0
+X4,Paid a good price,0.0,0.0
+X5,Satisfied with courier,0.0,0.0

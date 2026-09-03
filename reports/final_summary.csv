@@ -1,0 +1,2 @@
+Selected model,Test accuracy,Test precision,Test recall,Test F1,Recommended features,Subset CV accuracy,Subset CV F1
+Gradient Boosting,0.7307692307692307,0.6666666666666666,1.0,0.8,"X1, X6",0.598,0.7166150321478463

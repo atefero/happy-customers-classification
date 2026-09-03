@@ -1,0 +1,12 @@
+# Project data
+data/**/*.xlsx
+data/**/*.csv
+data/*.xlsx
+data/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
