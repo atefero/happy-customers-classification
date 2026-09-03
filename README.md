@@ -1,4 +1,4 @@
-# Happy Customers: Apziva Project
+# Happy Customers: Customer Happiness Classification
 
 ## Project Overview
 
